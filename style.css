@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(0, 0, 58);
+    text-align: center;
+    margin: 0;
+}
+
+.page {
+    width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.steps {
+    padding: 30px;
+}
+
+.main {
+    background-color: rgb(11, 37, 151);
+    padding: 30px;
+    color: rgb(129, 152, 255);
+}
+
+.rest {
+    background-color: rgb(8, 25, 100);
+    padding: 30px;
+    color: rgb(129, 152, 255);
+    margin-top: 25px;
+}
+
+.sun {
+    background-color: rgb(100, 79, 8);
+    padding: 30px;
+    color: rgb(253, 255, 129);
+    margin-top: 25px;
+}
+
+.mercury {
+    background-color: rgb(75, 75, 75);
+    padding: 30px;
+    color: rgb(212, 212, 212);
+    margin-top: 25px;
+}
+
+.venus {
+    background-color: rgb(105, 97, 0);
+    padding: 30px;
+    color: rgb(255, 248, 147);
+    margin-top: 25px;
+}
+
+.earth {
+    background-color: rgb(8, 89, 100);
+    padding: 30px;
+    color: rgb(129, 255, 213);
+    margin-top: 25px;
+}
+
+.mars {
+    background-color: rgb(100, 11, 8);
+    padding: 30px;
+    color: rgb(255, 129, 129);
+    margin-top: 25px;
+}
+
+.jupiter {
+    background-color: rgb(117, 86, 46);
+    padding: 30px;
+    color: rgb(255, 215, 129);
+    margin-top: 25px;
+}
+
+.saturn {
+    background-color: rgb(133, 131, 43);
+    padding: 30px;
+    color: rgb(255, 247, 136);
+    margin-top: 25px;
+}
+
+.uranus {
+    background-color: rgb(0, 112, 103);
+    padding: 30px;
+    color: rgb(129, 230, 255);
+    margin-top: 25px;
+}
+
+.neptune {
+    background-color: rgb(2, 0, 131);
+    padding: 30px;
+    color: rgb(90, 120, 255);
+    margin-top: 25px;
+}
+
+.exit {
+    background-color: rgb(0, 13, 68);
+    padding: 30px;
+    color: rgb(129, 152, 255);
+    margin-top: 25px;
+}
